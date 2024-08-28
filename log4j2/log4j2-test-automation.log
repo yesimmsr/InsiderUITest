@@ -1,0 +1,243 @@
+[INFO ] 2024-08-28 14:01:15.043 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 14:01:15.242 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 14:01:40.442 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 14:01:40.488 [main] Log - Opening Insider Website.
+[INFO ] 2024-08-28 14:01:45.238 [main] Log - Going to Login Page..
+[INFO ] 2024-08-28 14:01:57.095 [main] Log - openDashboard test is failed.
+[INFO ] 2024-08-28 14:01:57.885 [main] Log - Tests are ending!
+[INFO ] 2024-08-28 14:02:00.998 [main] Log - I am in onFinish method Insider
+[INFO ] 2024-08-28 14:03:56.717 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 14:03:56.949 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 14:04:21.073 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 14:04:21.145 [main] Log - Opening Insider Website.
+[INFO ] 2024-08-28 14:04:21.971 [main] Log - Going to Login Page..
+[INFO ] 2024-08-28 14:04:33.780 [main] Log - openDashboard test is failed.
+[INFO ] 2024-08-28 14:04:34.353 [main] Log - Tests are ending!
+[INFO ] 2024-08-28 14:04:36.104 [main] Log - I am in onFinish method Insider
+[INFO ] 2024-08-28 14:07:51.193 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 14:07:51.311 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 14:08:07.014 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 14:08:07.085 [main] Log - Opening Insider Website.
+[INFO ] 2024-08-28 14:08:08.003 [main] Log - Going to Login Page..
+[INFO ] 2024-08-28 14:08:19.825 [main] Log - openDashboard test is failed.
+[INFO ] 2024-08-28 14:08:20.355 [main] Log - Tests are ending!
+[INFO ] 2024-08-28 14:08:23.619 [main] Log - I am in onFinish method Insider
+[INFO ] 2024-08-28 14:09:47.406 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 14:09:47.791 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 14:10:25.678 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 14:10:25.762 [main] Log - Opening Insider Website.
+[INFO ] 2024-08-28 14:13:01.030 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 14:13:01.256 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 14:13:27.007 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 14:13:27.093 [main] Log - Opening Insider Website.
+[INFO ] 2024-08-28 14:13:47.989 [main] Log - Going to Login Page..
+[INFO ] 2024-08-28 14:14:01.310 [main] Log - openDashboard test is failed.
+[INFO ] 2024-08-28 14:14:02.237 [main] Log - Tests are ending!
+[INFO ] 2024-08-28 14:14:08.198 [main] Log - I am in onFinish method Insider
+[INFO ] 2024-08-28 14:17:27.157 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 14:17:27.287 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 14:17:59.310 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 14:17:59.424 [main] Log - Opening Insider Website.
+[INFO ] 2024-08-28 14:18:00.449 [main] Log - Side Menu see Company
+[INFO ] 2024-08-28 14:18:06.489 [main] Log - Open to Career Page
+[INFO ] 2024-08-28 14:18:18.458 [main] Log - openDashboard test is failed.
+[INFO ] 2024-08-28 14:18:19.269 [main] Log - Tests are ending!
+[INFO ] 2024-08-28 14:18:26.165 [main] Log - I am in onFinish method Insider
+[INFO ] 2024-08-28 14:18:48.681 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 14:18:48.868 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 14:19:17.424 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 14:19:17.502 [main] Log - Opening Insider Website.
+[INFO ] 2024-08-28 14:19:18.326 [main] Log - Side Menu see Company
+[INFO ] 2024-08-28 14:19:30.438 [main] Log - Open to Career Page
+[INFO ] 2024-08-28 14:19:43.188 [main] Log - openDashboard test is failed.
+[INFO ] 2024-08-28 14:19:44.141 [main] Log - Tests are ending!
+[INFO ] 2024-08-28 14:19:49.517 [main] Log - I am in onFinish method Insider
+[INFO ] 2024-08-28 14:20:43.063 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 14:20:43.235 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 14:21:15.297 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 14:21:15.370 [main] Log - Opening Insider Website.
+[INFO ] 2024-08-28 14:21:32.509 [main] Log - Side Menu see Company
+[INFO ] 2024-08-28 14:21:33.949 [main] Log - Open to Career Page
+[INFO ] 2024-08-28 14:21:46.024 [main] Log - openDashboard test is failed.
+[INFO ] 2024-08-28 14:22:37.547 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 14:22:37.755 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 14:23:13.234 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 14:23:13.340 [main] Log - Opening Insider Website.
+[INFO ] 2024-08-28 14:25:31.729 [main] Log - Side Menu see Company
+[INFO ] 2024-08-28 14:25:59.922 [main] Log - Open to Career Page
+[INFO ] 2024-08-28 14:27:43.296 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 14:27:43.521 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 14:28:20.297 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 14:28:42.520 [main] Log - openDashboard test is failed.
+[INFO ] 2024-08-28 14:28:43.478 [main] Log - Tests are ending!
+[INFO ] 2024-08-28 14:28:46.050 [main] Log - I am in onFinish method Insider
+[INFO ] 2024-08-28 14:32:15.775 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 14:32:15.912 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 14:32:41.889 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 14:33:05.557 [main] Log - openDashboard test is failed.
+[INFO ] 2024-08-28 14:33:06.263 [main] Log - I am in onFinish method Insider
+[INFO ] 2024-08-28 14:45:01.072 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 14:45:01.187 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 14:45:23.121 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 14:49:07.653 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 14:49:07.792 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 14:49:37.394 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 14:49:56.332 [main] Log - openDashboard test is failed.
+[INFO ] 2024-08-28 14:49:57.261 [main] Log - I am in onFinish method Insider
+[INFO ] 2024-08-28 15:02:30.815 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 15:02:30.960 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 15:02:59.373 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 15:03:22.096 [main] Log - openDashboard test is failed.
+[INFO ] 2024-08-28 15:03:23.131 [main] Log - I am in onFinish method Insider
+[INFO ] 2024-08-28 15:27:44.398 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 15:27:44.550 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 15:28:04.689 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 15:28:22.021 [main] Log - openDashboard test is failed.
+[INFO ] 2024-08-28 15:28:22.910 [main] Log - Tests are ending!
+[INFO ] 2024-08-28 15:28:25.837 [main] Log - I am in onFinish method Insider
+[INFO ] 2024-08-28 15:29:08.055 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 15:29:08.198 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 15:29:27.903 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 15:33:18.036 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 15:33:18.181 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 15:33:40.490 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 15:36:02.043 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 15:36:02.230 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 15:36:25.064 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 15:40:27.502 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 15:40:28.021 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 15:40:47.754 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 15:41:05.223 [main] Log - openDashboard test is failed.
+[INFO ] 2024-08-28 15:41:05.663 [main] Log - Tests are ending!
+[INFO ] 2024-08-28 15:41:07.105 [main] Log - I am in onFinish method Insider
+[INFO ] 2024-08-28 15:54:55.595 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 15:54:55.717 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 15:55:15.506 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 15:55:33.603 [main] Log - openDashboard test is failed.
+[INFO ] 2024-08-28 15:55:34.061 [main] Log - Tests are ending!
+[INFO ] 2024-08-28 15:55:35.614 [main] Log - I am in onFinish method Insider
+[INFO ] 2024-08-28 15:56:33.073 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 15:56:33.221 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 15:56:53.816 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 15:57:13.976 [main] Log - openDashboard test is failed.
+[INFO ] 2024-08-28 15:57:14.532 [main] Log - Tests are ending!
+[INFO ] 2024-08-28 15:57:16.131 [main] Log - I am in onFinish method Insider
+[INFO ] 2024-08-28 15:59:34.649 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 15:59:34.757 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 15:59:55.876 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 16:00:15.639 [main] Log - openDashboard test is failed.
+[INFO ] 2024-08-28 16:00:16.338 [main] Log - Tests are ending!
+[INFO ] 2024-08-28 16:00:19.045 [main] Log - I am in onFinish method Insider
+[INFO ] 2024-08-28 16:02:34.951 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 16:02:35.075 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 16:03:09.712 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 16:03:45.679 [main] Log - openDashboard test is failed.
+[INFO ] 2024-08-28 16:03:47.563 [main] Log - I am in onFinish method Insider
+[INFO ] 2024-08-28 16:17:36.388 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 16:17:36.514 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 16:17:58.950 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 16:18:31.464 [main] Log - openDashboard test is failed.
+[INFO ] 2024-08-28 16:18:32.321 [main] Log - I am in onFinish method Insider
+[INFO ] 2024-08-28 16:20:32.655 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 16:20:32.780 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 16:20:52.018 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 16:21:19.488 [main] Log - openDashboard test is failed.
+[INFO ] 2024-08-28 16:21:20.068 [main] Log - I am in onFinish method Insider
+[INFO ] 2024-08-28 16:23:13.125 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 16:23:13.253 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 16:23:36.068 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 16:24:06.269 [main] Log - I am in onFinish method Insider
+[INFO ] 2024-08-28 16:24:48.285 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 16:24:48.463 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 16:25:11.004 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 16:26:52.927 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 16:26:53.073 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 16:27:14.406 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 16:28:26.850 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 16:28:26.976 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 16:28:47.924 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 16:29:06.011 [main] Log - I am in onFinish method Insider
+[INFO ] 2024-08-28 16:34:18.680 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 16:34:18.797 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 16:34:38.596 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 16:34:55.678 [main] Log - openDashboard test is failed.
+[INFO ] 2024-08-28 16:34:56.253 [main] Log - Tests are ending!
+[INFO ] 2024-08-28 16:34:57.805 [main] Log - I am in onFinish method Insider
+[INFO ] 2024-08-28 16:36:33.062 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 16:36:33.248 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 16:36:53.406 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 16:37:10.636 [main] Log - openDashboard test is failed.
+[INFO ] 2024-08-28 16:37:11.057 [main] Log - Tests are ending!
+[INFO ] 2024-08-28 16:37:12.726 [main] Log - I am in onFinish method Insider
+[INFO ] 2024-08-28 16:38:20.729 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 16:38:20.880 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 16:38:41.866 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 16:38:59.318 [main] Log - openDashboard test is failed.
+[INFO ] 2024-08-28 16:38:59.722 [main] Log - Tests are ending!
+[INFO ] 2024-08-28 16:39:01.661 [main] Log - I am in onFinish method Insider
+[INFO ] 2024-08-28 16:39:39.516 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 16:39:39.635 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 16:39:58.241 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 16:41:06.838 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 16:41:07.017 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 16:46:28.136 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 16:46:28.292 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 16:46:44.549 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 16:46:52.784 [main] Log - openDashboard test is failed.
+[INFO ] 2024-08-28 16:46:53.624 [main] Log - Tests are ending!
+[INFO ] 2024-08-28 16:46:58.159 [main] Log - I am in onFinish method Insider
+[INFO ] 2024-08-28 16:48:09.439 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 16:48:09.543 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 16:48:26.070 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 16:48:34.730 [main] Log - openDashboard test is failed.
+[INFO ] 2024-08-28 16:48:35.496 [main] Log - Tests are ending!
+[INFO ] 2024-08-28 16:48:38.703 [main] Log - I am in onFinish method Insider
+[INFO ] 2024-08-28 16:49:33.229 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 16:49:33.442 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 16:49:52.265 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 16:50:00.070 [main] Log - openDashboard test is failed.
+[INFO ] 2024-08-28 16:50:00.612 [main] Log - Tests are ending!
+[INFO ] 2024-08-28 16:50:04.421 [main] Log - I am in onFinish method Insider
+[INFO ] 2024-08-28 16:51:28.503 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 16:51:28.649 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 16:51:44.837 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 16:54:24.980 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 16:54:25.089 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 16:54:44.318 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 16:55:02.609 [main] Log - openDashboard test is failed.
+[INFO ] 2024-08-28 16:55:03.190 [main] Log - Tests are ending!
+[INFO ] 2024-08-28 16:55:05.031 [main] Log - I am in onFinish method Insider
+[INFO ] 2024-08-28 16:56:08.247 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 16:56:08.436 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 16:56:31.727 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 16:56:51.218 [main] Log - openDashboard test is failed.
+[INFO ] 2024-08-28 16:56:51.804 [main] Log - Tests are ending!
+[INFO ] 2024-08-28 16:56:53.349 [main] Log - I am in onFinish method Insider
+[INFO ] 2024-08-28 16:58:40.570 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 16:58:40.771 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 16:59:00.407 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 17:00:36.321 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 17:00:36.465 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 17:00:58.589 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 17:01:15.407 [main] Log - openDashboard test is failed.
+[INFO ] 2024-08-28 17:01:15.865 [main] Log - Tests are ending!
+[INFO ] 2024-08-28 17:01:18.055 [main] Log - I am in onFinish method Insider
+[INFO ] 2024-08-28 17:02:12.987 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 17:02:13.101 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 17:02:32.563 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 17:02:49.361 [main] Log - openDashboard test is failed.
+[INFO ] 2024-08-28 17:02:49.776 [main] Log - Tests are ending!
+[INFO ] 2024-08-28 17:02:51.655 [main] Log - I am in onFinish method Insider
+[INFO ] 2024-08-28 17:04:20.271 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 17:04:20.376 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 17:04:42.051 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 17:05:47.397 [main] Log - openDashboard test is failed.
+[INFO ] 2024-08-28 17:05:48.203 [main] Log - Tests are ending!
+[INFO ] 2024-08-28 17:05:51.765 [main] Log - I am in onFinish method Insider
+[INFO ] 2024-08-28 17:19:37.543 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-28 17:19:37.689 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 17:19:54.715 [main] Log - openDashboard test is starting.
+[INFO ] 2024-08-28 17:20:21.252 [main] Log - Tests are ending!
+[INFO ] 2024-08-28 17:20:23.121 [main] Log - I am in onFinish method Insider
+[INFO ] 2024-08-28 17:36:25.519 [main] Log - Tests are starting!
+[INFO ] 2024-08-28 17:37:03.381 [main] Log - Tests are ending!

@@ -1,0 +1,28 @@
+[INFO ] 2024-08-27 13:29:54.918 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-27 13:29:54.962 [main] Log - I am in onFinish method Insider
+[INFO ] 2024-08-27 13:30:33.077 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-27 13:30:33.109 [main] Log - I am in onFinish method Insider
+[INFO ] 2024-08-27 13:31:49.771 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-27 13:31:49.910 [main] Log - Tests are starting!
+[INFO ] 2024-08-27 13:32:11.570 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2024-08-27 13:32:12.457 [main] Log - Opening Insider Website.
+[INFO ] 2024-08-27 13:32:17.403 [main] Log - Going to Login Page..
+[INFO ] 2024-08-27 13:32:28.196 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is skipped.
+[INFO ] 2024-08-27 13:32:28.266 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2024-08-27 13:32:28.276 [main] Log - Opening Insider Website.
+[INFO ] 2024-08-27 13:32:32.494 [main] Log - Going to Login Page..
+[INFO ] 2024-08-27 13:32:43.287 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is failed.
+[INFO ] 2024-08-27 13:32:43.942 [main] Log - Tests are ending!
+[INFO ] 2024-08-27 13:32:47.269 [main] Log - I am in onFinish method Insider
+[INFO ] 2024-08-27 22:36:57.932 [main] Log - I am in onStart method Insider
+[INFO ] 2024-08-27 22:36:58.049 [main] Log - Tests are starting!
+[INFO ] 2024-08-27 22:37:22.963 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2024-08-27 22:37:23.786 [main] Log - Opening Insider Website.
+[INFO ] 2024-08-27 22:37:31.912 [main] Log - Going to Login Page..
+[INFO ] 2024-08-27 22:37:42.195 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is skipped.
+[INFO ] 2024-08-27 22:37:42.251 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2024-08-27 22:37:42.255 [main] Log - Opening Insider Website.
+[INFO ] 2024-08-27 22:37:44.757 [main] Log - Going to Login Page..
+[INFO ] 2024-08-27 22:37:55.216 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is failed.
+[INFO ] 2024-08-27 22:37:55.589 [main] Log - Tests are ending!
+[INFO ] 2024-08-27 22:37:57.214 [main] Log - I am in onFinish method Insider
